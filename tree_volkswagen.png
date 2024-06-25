@@ -1,0 +1,13 @@
+digraph {
+	2237552895120 [label="Volkswagen Golf
+¿Tiene más de 200 hp?
+"]
+	2237558940816 [label="¿Tiene más de 200 hp?
+Es considerado de alto rendimiento
+"]
+	2237552895120 -> 2237558940816
+	2237553041040 [label="Es considerado de alto rendimiento
+
+"]
+	2237558940816 -> 2237553041040
+}

@@ -1,0 +1,10 @@
+Si el Volkswagen Golf tiene mas de 200 hp, entonces es considerado de alto rendimiento.
+Si el Volkswagen Polo tiene menos de 180 hp, entonces es considerado de bajo rendimiento.
+Si el Volkswagen Passat tiene al menos 3 años de antigüedad, entonces es usado.
+Si el Volkswagen Tiguan tiene menos de 3 años de antigüedad, entonces es nuevo.
+Si el Volkswagen Arteon tiene menos de 500 km recorridos, entonces es casi nuevo.
+Si el Volkswagen T-Roc tiene entre 500 y 1000 km recorridos, entonces es seminuevo.
+Si el Volkswagen Touareg tiene más de 1000 km recorridos, entonces es usado.
+Si el Volkswagen Golf GTI es deportivo y tiene más de 500 hp, entonces es de alto rendimiento.
+Si el Volkswagen Scirocco es deportivo y tiene menos de 500 hp, entonces es de bajo rendimiento.
+Si el Volkswagen Golf R es deportivo y tiene más de 1000 hp, entonces es de alto rendimiento.
